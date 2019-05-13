@@ -1,0 +1,152 @@
+body{
+	background-color: #c7ecee;
+}
+
+.navbar{
+	background-color: black;
+}
+
+.sa a{
+	color: #c7ecee;
+}
+.st a{
+	color: #222f3e;
+	margin-left: 1%;
+}
+
+.st a:hover{
+	color: #c7ecee;
+	background-color: #17a2b8;
+}
+
+.vd{
+	cursor: default;
+}
+
+.contenido{
+	margin-left: 0px !important;
+    margin-right: 0px !important;
+    width: 100% !important;
+}
+
+.imagenI{
+	width: 50%;
+	float: left;
+	position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.v2{
+	opacity: 1;
+    margin: 0;
+    transform: translate(0);
+    position: initial;
+    float: right;
+}
+.v2 img{
+	position: absolute;
+    bottom: -12%;
+    left: -40%;
+    z-index: 10 !important;
+}
+
+.v2 img a{
+	font-family: 'Montserrat', sans-serif;
+    margin-bottom: 12px;
+    font-weight: 400;
+    transition: 0.3s ease;
+
+}
+
+.imagen{
+	width: 479px;
+    height: 310px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 40%;
+    margin-left: -50%;
+    z-index: 1;
+}
+
+.imagen img{
+	width: 582px;
+    height: 680px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.texto{
+	width: 50%;
+	padding-top: 40px;
+	float: left;
+	position: relative;
+    min-height: 1px;
+    margin-left: -6%;
+    padding-right: 15px;
+}
+
+.texto h1{
+	font-family: 'Montserrat', sans-serif;
+    font-size: 55px;
+    font-weight: 650;
+    color: #2B2B2B;
+    line-height: 20px;
+    margin-bottom: 20px;
+    margin-top: 25%;
+}
+
+.text1{
+	font-style: italic;
+	display: block;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    font-family: 'Roboto', sans-serif;
+}
+
+.shadow{
+	font-family: 'Montserrat', sans-serif;
+    margin-bottom: 12px;
+    font-weight: 400;
+    transition: 0.3s ease;
+}
+
+.mas{
+	 color: white !important;
+	background: #0B9ED0;
+   
+    display: inline-block;
+    font-weight: 300;
+    font-size: 20px;
+    padding: 15px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+.slider{
+	width:52%;
+	height: 204px;
+	z-index: 15 !important;
+	margin-top: 23%;
+	margin-left: 14.5%;
+	position: absolute;
+}
+
+.carousel-item img{
+	height: 209px;
+}
+
+
+
+
